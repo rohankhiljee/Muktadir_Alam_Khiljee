@@ -1,0 +1,40 @@
+Line No: 1 Header File Declaration.
+Line No: 2 Namespace Declaration.
+Line No: 4 int = Keyword.
+Line No: 4 "main()" = Valid Function Name
+Line No: 4 "{" = Bracket Sequence.
+Line No: 5 cout = built in name.
+Line No: 5 << = built in name.
+Line No: 5 ""Welcome"" = Constant
+Line No: 5 ';' =  Punctuation
+Line No: 6 int = Keyword.
+Line No: 6 "0x" = Error inValid Variable/Function Name
+Line No: 6 "=" = Equality Operators.
+Line No: 6 "24" = Constant
+Line No: 6 "%" = Arithmetic Operator
+Line No: 6 "10" = Constant
+Line No: 6 ';' =  Punctuation
+Line No: 7 Condition Declaration.
+Line No: 7 "(" = Bracket Sequence
+Line No: 7 "x" = Valid Variable
+Line No: 7 === = Error Occured
+Line No: 7 "4" = Valid Constant
+Line No: 7 ")" = Bracket Sequence
+Line No: 7 "{" = Bracket Sequence.
+Line No: 8 "x" = Variable
+Line No: 8 "=" = Equality Operators.
+Line No: 8 "40" = Constant
+Line No: 8 ';' =  Punctuation
+Line No: 9 "}" = Bracket Sequence.
+Line No: 10 int = Keyword.
+Line No: 10 "y" = Valid Variable
+Line No: 10 "=" = Equality Operators.
+Line No: 10 "50" = Constant
+Line No: 10 ';' =  Punctuation
+Line No: 11 int = Keyword.
+Line No: 11 "z" = Valid Variable
+Line No: 11 "=" = Equality Operators.
+Line No: 11 "60" = Constant
+Line No: 11 ';' =  Punctuation
+Line No: 13 Return Called.
+Line No: 14 "}" = Bracket Sequence.
